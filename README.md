@@ -212,9 +212,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Developed by **Adhitya Maulana Wijaya**
-/nGitHub: https://github.com/AdhityaMaulana11  
-/nLinkedIn: https://www.linkedin.com/in/adhitya-maulana-wijaya-b11534292/
+Developed by **Adhitya Maulana Wijaya** | GitHub: https://github.com/AdhityaMaulana11 | LinkedIn: https://www.linkedin.com/in/adhitya-maulana-wijaya-b11534292/
 
 ---
 
