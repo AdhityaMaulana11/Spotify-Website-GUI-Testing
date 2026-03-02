@@ -213,8 +213,8 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 Developed by **Adhitya Maulana Wijaya**
-GitHub: https://github.com/AdhityaMaulana11  
-LinkedIn: https://www.linkedin.com/in/adhitya-maulana-wijaya-b11534292/
+/nGitHub: https://github.com/AdhityaMaulana11  
+/nLinkedIn: https://www.linkedin.com/in/adhitya-maulana-wijaya-b11534292/
 
 ---
 
@@ -222,7 +222,3 @@ LinkedIn: https://www.linkedin.com/in/adhitya-maulana-wijaya-b11534292/
 
 This project is created for automation testing practice and educational purposes only.
 Spotify is a registered trademark of its respective owner.
-
-```
-
-```
