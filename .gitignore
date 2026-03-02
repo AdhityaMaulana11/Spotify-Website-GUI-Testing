@@ -8,9 +8,6 @@ package-lock.json
 # Environment Variables
 .env
 
-# Screenshots (generated test artifacts)
-*.png
-
 # OS
 .DS_Store
 Thumbs.db
